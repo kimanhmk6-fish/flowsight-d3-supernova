@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/kimanhmk6-fish/flowsight-d3-supernova/issues"
   },
-  "homepage": "https://github.com/kimanhmk6-fish/flowsight-d3-supernova#readme"
+  "homepage": "https://github.com/kimanhmk6-fish/flowsight-d3-supernova#readme",
+  "dependencies": {
+    "d3": "^7.9.0"
+  }
 }
